@@ -1,0 +1,31 @@
+﻿# Local paper and notes
+semi_incremental_learning (12).pdf
+MODULE_MAP.md
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Training outputs and checkpoints
+logs/
+results/
+runs/
+figures/
+ckpt/
+checkpoints/
+*.ckpt
+*.pt
+*.pth
+
+# Local datasets
+data/
+datasets/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
